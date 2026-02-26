@@ -21,7 +21,7 @@ export default function Home() {
             GitHub
           </a>
           <a
-            href="https://linkedin.com/in/omar"
+            href="https://www.linkedin.com/in/omar-6-youssef/"
             target="_blank"
             rel="noopener noreferrer"
             className="underline"

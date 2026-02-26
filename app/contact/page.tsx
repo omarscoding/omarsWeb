@@ -11,8 +11,8 @@ export default function ContactPage() {
       <ul className="space-y-3">
         <li>
           <span className="font-medium">Email: </span>
-          <a href="mailto:omar@example.com" className="underline">
-            omar@example.com
+          <a href="mailto:omaryoussefnz@gmail.com" className="underline">
+            omaryoussefnz@gmail.com
           </a>
         </li>
         <li>
@@ -29,12 +29,12 @@ export default function ContactPage() {
         <li>
           <span className="font-medium">LinkedIn: </span>
           <a
-            href="https://linkedin.com/in/omar"
+            href="https://www.linkedin.com/in/omar-6-youssef/"
             target="_blank"
             rel="noopener noreferrer"
             className="underline"
           >
-            linkedin.com/in/omar
+            linkedin.com/in/omar-6-youssef
           </a>
         </li>
       </ul>
